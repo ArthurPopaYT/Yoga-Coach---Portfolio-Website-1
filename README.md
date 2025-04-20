@@ -11,10 +11,6 @@ A clean, responsive one-page portfolio website for a fictional yoga coach named 
 - Contact form
 - Clean, minimal design focused on content
 
-## Live Demo
-
-You can view the live demo by visiting: https://yourusername.github.io/yoga-coach-portfolio
-
 ## Technologies Used
 
 - HTML5
@@ -22,23 +18,6 @@ You can view the live demo by visiting: https://yourusername.github.io/yoga-coac
 - JavaScript (vanilla, no frameworks required)
 - Google Fonts (Montserrat and Playfair Display)
 - Font Awesome icons
-
-## How to Use
-
-### Option 1: Download and Run Locally
-
-1. Download or clone this repository
-2. Open the `index.html` file in your web browser
-
-### Option 2: Host on GitHub Pages
-
-1. Fork this repository to your GitHub account
-2. Go to your repository settings
-3. Scroll down to the GitHub Pages section
-4. Select the main branch as the source
-5. Save the settings
-6. Wait a few minutes for GitHub to deploy your site
-7. Access your site at: https://yourusername.github.io/repository-name
 
 ## Customization
 
